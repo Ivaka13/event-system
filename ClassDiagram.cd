@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Event">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAAQAAAEAAAAAAAAgAAAEAAAAAAAQAAAAA=</HashCode>
+      <FileName>курсова 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrivateEvent">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAABQAAAAAAACAAAAAAAAACAAAAAAAAIAAA=</HashCode>
+      <FileName>курсова 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PublicEvent">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAQAAAAIAAAAACAAAAAAAAAAAAgQAAEAA=</HashCode>
+      <FileName>курсова 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharityEvent">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAQAAABAAAAAAAAABAAAAAAAQAAAAgAAA=</HashCode>
+      <FileName>курсова 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wedding">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAEgEgAAQAAAA=</HashCode>
+      <FileName>курсова 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Concert">
+    <Position X="13" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAQAAAAACBAAAAAAAAAAAAABAAEAAAAAA=</HashCode>
+      <FileName>курсова 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Birthday">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAQAACAAAAAAAAAAAIAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>курсова 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
